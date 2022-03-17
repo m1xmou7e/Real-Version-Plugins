@@ -1,2 +1,1 @@
-# Versions
-Checking the version to update my plugins
+# Проверка версии для обновления моих плагинов
